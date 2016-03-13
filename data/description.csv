@@ -3,3 +3,5 @@ label,sublabel,description,styles,bgcolor
 破砕ゴミ,,,img/shigen02.svg,#77ae1f
 有害ゴミ,,,img/moyasu02.svg,#ea3b13
 プラスチック容器包装,,,img/bin02.svg,#2dc7aa
+古紙,,,,#1dfff
+粗大ゴミ,,,,#823823

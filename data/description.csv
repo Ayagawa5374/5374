@@ -1,7 +1,7 @@
 label,sublabel,description,styles,bgcolor
-燃やせるゴミ,,,img/moyasanai02.svg,#733b96
-破砕ゴミ,,,img/shigen02.svg,#77ae1f
-有害ゴミ,,,img/moyasu02.svg,#ea3b13
-プラスチック容器包装,,,img/bin02.svg,#2dc7aa
-古紙,,,,#1dfff
-粗大ゴミ,,,,#823823
+燃やせるゴミ,,,img/moyasanai02.svg,#ea3b13
+破砕ゴミ,,,img/shigen02.svg,#685ecf
+有害ゴミ,,,img/moyasu02.svg,#733b96
+プラスチック容器包装,,,img/bin02.svg,#9263d3
+古紙,,,,#77ae1f
+粗大ゴミ,,,,#08b925
